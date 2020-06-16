@@ -5,10 +5,10 @@
         id        = "com.moodle.moodlemobile"
         versionCode = "391"
         version   = "1.15">
-    <name>Moodle Mobile</name>
+    <name>EduEdges Mobile</name>
 
     <description>
-        Moodle Mobile official app
+        EduEdges Mobile official app
     </description>
 
     <author href="http://moodle.com" email="juan@moodle.com">
@@ -21,7 +21,7 @@
 
     <preference name="android-minSdkVersion" value="5" />
 
-    <preference name="phonegap-version" value="3.6.3" />
+    <preference name="phonegap-version" value="cli-6.5.0" />
     <preference name="orientation"      value="default" />
     <preference name="target-device"    value="universal" />
     <preference name="fullscreen"       value="false" />
